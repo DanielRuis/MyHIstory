@@ -1,0 +1,14 @@
+:root{
+    --fondo_0:#211932;
+    --fondo_1:#2D263A;
+}
+*{
+    color:white;
+    font-family:roboto;
+    font-weight: lighter;
+}
+
+body{
+    background: var(--fondo_0);
+    
+}
